@@ -5,6 +5,9 @@ accent_image: assets/img/GoddardSun.jpg
 
 home: Projects
 
+plugins:
+  - jekyll-include-cache
+
 hydejack:
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
@@ -63,3 +66,4 @@ compress_html:
   endings:             all
   ignore:
     envs:              [development]
+
