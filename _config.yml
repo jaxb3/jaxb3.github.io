@@ -5,6 +5,16 @@ accent_image: assets/img/GoddardSun.jpg
 
 home: Projects
 
+menu:
+  - title:             Home
+    url:               /
+  - title:             Projects
+    url:               /projects/
+  - title:             Resume
+    url:               /Resume/
+  - title:             About
+    url:               /about/
+
 plugins:
   - jekyll-include-cache
 
