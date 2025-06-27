@@ -2,4 +2,6 @@
 layout: page
 title: "Resume"
 permalink: /Resume/
+
+<object data="../assets/Busch_Jackson_Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
 ---
