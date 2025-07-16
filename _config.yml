@@ -1,3 +1,8 @@
+domain: jaxb3.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://jaxb3.github.io
+baseurl: /my_portfolio_page/
+repository: jaxb3/jaxb3.github.io
+
 remote_theme: hydecorp/hydejack@v9
 
 title: Jackson's Portfolio
@@ -11,7 +16,7 @@ menu:
   - title:             Projects
     url:               /projects/
   - title:             Resume
-    url:               /resume/
+    url:               /Resume/
   - title:             About
     url:               /about/
 
