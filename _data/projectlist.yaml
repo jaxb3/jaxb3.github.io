@@ -3,7 +3,10 @@ projects_list_title: My Projects
 projects:
 - title: DAMIC
   url: DAMIC/
+  image: /assets/img/DAMIClogo.png
 - title: Airfoil Simulation
   url: airfoil-simulation/
+  image: /assets/img/Airfoillogo.png
 - title: Design Build Fly
   url: design-build-fly/
+  image: /assets/img/DBFlogo.png
