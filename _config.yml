@@ -82,3 +82,12 @@ compress_html:
   ignore:
     envs:              [development]
 
+collections:
+  projects:
+    permalink: /projects/:path/
+    order:
+      - DAMIC.md
+      - airfoil-simulation.md
+      - design-build-fly.md
+
+
