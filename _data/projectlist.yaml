@@ -1,0 +1,9 @@
+projects_list_title: My Projects
+
+projects:
+- title: DAMIC
+  url: DAMIC/
+- title: Airfoil Simulation
+  url: airfoil-simulation/
+- title: Design Build Fly
+  url: design-build-fly/
