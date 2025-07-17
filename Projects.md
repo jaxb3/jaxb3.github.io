@@ -12,7 +12,7 @@ Some of my more comprehensive academic and extracurricular projects.
 {% for entry in site.data.projectlist.projects %}
     <li><a href="{{ entry.url }}"> {{ entry.title }}</a></li>
     
-    <img src = "{{ site.url }}{{ site.baseurl }}{{ entry.image }}" alt="Project logo"><br>
+    <img src = "{{ site.url }}{{ entry.image }}" alt="Project logo"><br>
     <br> 
 {% endfor %}
 </ul>
