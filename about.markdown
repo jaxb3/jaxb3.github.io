@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Jackson Busch is an alum of UCLA (B.S. Aerospace Engineering - 2021) and the University of Washington (M.S. Physics - 2024) with a deep interest in novel, cutting-edge developments in the world of physics and engineering.  His experiences in internships with NASA and Damar Aerosystems, club membership in UCLA's Autonomous Drone club (UAS@UCLA), as well as his Master's thesis with the Dark Matter in CCDs (DAMIC) group at the UW, have helped to shape his technical growth as an aspiring engineer. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Additional experiences include coaching soccer and tutoring college-level math and physics.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Jackson also enjoys playing soccer, guitar, snowboarding, and all types of games.
 
-
-[jekyll-organization]: https://github.com/jekyll
+LinkedIn: [jekyll]https://www.linkedin.com/in/jacksonbusch-engr/
