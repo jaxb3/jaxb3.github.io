@@ -1,0 +1,5 @@
+hr.image-rule{
+  /*border: none;*/
+  height: 30px;
+  background: url("../img/background-jwst.jpg") center;
+}
