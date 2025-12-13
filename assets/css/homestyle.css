@@ -1,5 +1,5 @@
 hr.image-rule{
-  /*border: none;*/
-  height: 30px;
-  background: url("../img/background-jwst.jpg") center;
+  border: none;
+  height: 50px;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/a/a2/Milky_way1.jpg") center;
 }
