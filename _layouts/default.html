@@ -16,6 +16,7 @@
 
 layout: base
 ---
+<link rel="stylesheet" href="../assets/css/homestyle.css">
 
 {% assign strings = site.data.strings %}
 
@@ -27,7 +28,7 @@ layout: base
 
   {{ content }}
 
-  <hr class="dingbat"/>
+  <hr class="image-rule"/>
 
   {% if site.posts.size > 0 %}
     <h2 class="hr">{{ strings.posts | default:"Posts" }}</h2>
