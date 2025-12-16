@@ -5,5 +5,5 @@ permalink: /projects/airfoil-simulation/
 
 ---
 
-My work as a member of the Dark Matter in CCDs research group at the University of Washington.
+My work in the Aerodynamics course MAE 150B at UCLE on physics simulations of aerodynamics on varying airfoils.  The simulations were computed with a mixture of MATLAB and COMSOL Multiphysics and the results compiled into a term paper.
 
