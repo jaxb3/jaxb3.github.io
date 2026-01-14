@@ -10,4 +10,4 @@ Additional experiences include coaching soccer and tutoring college-level math a
 
 Jackson also enjoys playing soccer, guitar, snowboarding, and all types of games.
 
-LinkedIn: [jekyll]https://www.linkedin.com/in/jacksonbusch-engr/
+Other Links: [LinkedIn Profile](https://www.linkedin.com/in/jacksonbusch-engr/)
