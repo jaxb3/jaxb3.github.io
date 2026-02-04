@@ -6,7 +6,7 @@ projects:
   image: /assets/img/DAMIClogo.png
 - title: Airfoil Simulation
   url: airfoil-simulation/
-  image: /assets/img/Airfoillogo.png
+  image: /assets/img/AirfoilProjectlogo.png
 - title: Design Build Fly
   url: design-build-fly/
   image: /assets/img/DBFlogo.png
