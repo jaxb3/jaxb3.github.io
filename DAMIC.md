@@ -13,4 +13,4 @@ permalink: /projects/DAMIC/
   I performed in-depth analysis and calibration of data for DAMIC's Charge-Couple Device (CCD) when exposed to a C-14 beta particle source.
 </p>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbmVSxIRH4nrAd8AnztnCgwnGyf37PLrsUby1dvlh2hK2UBvpvvczEkOeO8mEZpi1yvyVIYd8Bl_31/pubembed?start=true&loop=true&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://1drv.ms/p/c/f813f641b13f85a1/IQShhT-xQfYTIID4iooAAAAAAe2DCthy4ET_4ow_wI3zxPQ?em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>>
