@@ -5,7 +5,7 @@ repository: jaxb3/jaxb3.github.io
 
 remote_theme: hydecorp/hydejack@v9
 
-title: Jackson Busch | Portfolio
+title: | Jackson Busch | Portfolio
 accent_image: /assets/img/GoddardSun.jpg
 
 home: Projects
