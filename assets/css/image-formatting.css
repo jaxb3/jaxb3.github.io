@@ -23,6 +23,7 @@
 .pdf-container{
     position: relative;
     overflow: hidden;
+    width: 100%;
     padding-top: 129.4%;
     height: 0;
 }
