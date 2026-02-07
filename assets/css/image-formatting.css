@@ -23,7 +23,7 @@
 .pdf-container{
     position: relative;
     overflow: hidden;
-    padding-top: 129.4%
+    padding-top: 129.4%;
     height: 0;
 }
 .pdf-container iframe{
