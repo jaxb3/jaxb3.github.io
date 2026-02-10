@@ -1,6 +1,6 @@
 hr.image-rule{
   border: none;
-  height: 50px;
+  height: 20px;
   content: "✜ ✜ ✜ ✜ ✜"
   /*Old image bar background: url("https://upload.wikimedia.org/wikipedia/commons/a/a2/Milky_way1.jpg") center; */
 }
