@@ -13,7 +13,7 @@ Some of my more comprehensive academic and extracurricular projects.
     <li><a href="{{ entry.url }}"> {{ entry.title }}</a></li>
     <br>
         <a href="{{ entry.url }}">
-        <img src = "{{ site.url }}{{ entry.image }}" alt="Project logo" width="360" height="288"><br>
+        <img src = "{{ site.url }}{{ entry.image }}" alt="Project logo" width="360" height="288px"><br>
         </a>
     <br> 
 {% endfor %}
